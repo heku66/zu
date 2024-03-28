@@ -1,15 +1,15 @@
 [
+   {
+        "name": "中文",
+        "tree": "./assets/example.csv",
+        "legend": "./assets/example.cn.json",
+        "background": "./assets/map_2x.png",
+        "code":"cn"
+    },
     {
         "name": "English",
         "tree": "./assets/example.csv",
         "legend": "./assets/example.en.json",
-        "background": "./assets/map_2x.png",
-        "code":"en"
-    },
-        {
-        "name": "Chinese",
-        "tree": "./assets/example.csv",
-        "legend": "./assets/example.cn.json",
         "background": "./assets/map_2x.png",
         "code":"en"
     },
