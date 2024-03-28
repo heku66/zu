@@ -1,0 +1,25 @@
+{
+    "map_legend": {
+        "father": "父亲",
+        "mother": "母亲",
+        "infant_male": "男孩",
+        "infant_female": "女孩",
+        "deceased": "已逝"
+    },
+    "title": "何氏家谱",
+    "subtitle": "An example of a subtitle: \"From ancestors to future generations, from the roots to the top\"",
+    "tutorial": "使用滚动缩放和拖放移动。",
+    "birth_abbreviation": "生。",
+    "death_abbreviation": "卒。",
+    "text_columns": [
+        "这是家谱的一个例子。<br><br>相关信息请参阅：<a href='//family--tree.org' title='星形家谱'>星形家谱</a> 网站。",
+        "您可以在此处添加任何内容。<br><br>例如，有关第一个已知祖先的一些信息或获取详细信息的链接。",
+        "如果您有任何问题，请随时联系我们<a href='https://github.com/aslushnikov/ftree' rel='nofollow'>GitHub</a>."
+    ],
+    "print_columns": [
+        "这是家谱打印版本的示例。 <br><br>相关信息请参阅：<a href='//family--tree.org' title='星形家谱' target='_blank'>星形家谱</a>.",
+        "您可以在此处添加任何内容。<br><br>例如，有关第一个已知祖先的一些信息或获取详细信息的链接。",
+        "如果您有任何问题，请随时联系我们<a href='https://github.com/aslushnikov/ftree' rel='nofollow'>GitHub</a>.",
+       "您还可以添加到在线版本<a href='/'>example.family--tree.org</a>"
+    ]
+}
