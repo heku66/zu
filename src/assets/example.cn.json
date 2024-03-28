@@ -9,8 +9,8 @@
     "title": "何氏家谱",
     "subtitle": "An example of a subtitle: \"From ancestors to future generations, from the roots to the top\"",
     "tutorial": "使用滚动缩放和拖放移动。",
-    "birth_abbreviation": "生。",
-    "death_abbreviation": "卒。",
+    "birth_abbreviation": "生于：",
+    "death_abbreviation": "逝于：",
     "text_columns": [
         "这是家谱的一个例子。<br><br>相关信息请参阅：<a href='//family--tree.org' title='星形家谱'>星形家谱</a> 网站。",
         "您可以在此处添加任何内容。<br><br>例如，有关第一个已知祖先的一些信息或获取详细信息的链接。",
