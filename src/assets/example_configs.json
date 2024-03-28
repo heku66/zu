@@ -6,6 +6,13 @@
         "background": "./assets/map_2x.png",
         "code":"en"
     },
+        {
+        "name": "Chinese",
+        "tree": "./assets/example.csv",
+        "legend": "./assets/example.cn.json",
+        "background": "./assets/map_2x.png",
+        "code":"en"
+    },
     {
         "name": "Russian",
         "tree": "./assets/example.csv",
